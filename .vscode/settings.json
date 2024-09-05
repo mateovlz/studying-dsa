@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "java\\org.json.jar",
+            "java\\lib\\org.json.jar"
+        ],
+        "exclude": [
+            "java/org.json.jar"
+        ]
+    }
+}

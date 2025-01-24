@@ -10,4 +10,4 @@ def numJewelsInStones_2(J, S):
     Jset = set(J)
     return sum(s in Jset for s in S)
 
-print(numJewelsInStones_2("aA", "aAAbbbb"))
+print(numJewelsInStones("aA", "aAAbbbb"))
